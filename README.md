@@ -2,11 +2,11 @@
 
 <h2>Active Directory Domain Controller and Client PC's</h2>
 - <b> Group Policy Objects that include pre-configured applications to install!(https://github.com/user-attachments/assets/027c957c-8e81-4f6c-b147-c2b08d8fcf59)</b> <br/>
-- <b>Example Domain policy settings that successfully apply to Client PC(https://github.com/user-attachments/assets/cee2954d-ddb3-49a3-908a-f12a57f89424)</b>
-- <b> Domain Policy that applies to all 1000 users on the Domain!(https://github.com/user-attachments/assets/835678d5-e930-4998-8074-95300d3181a6)
- </b>
-- <b>All 1000 users were added via adaptable powershell script, depending on organization needs (https://github.com/user-attachments/assets/d2dcabb6-5ac8-40d1-8bb4-1f1f48a9d078)
-</b>
+-<br/> <b>Example Domain policy settings that successfully apply to Client PC(https://github.com/user-attachments/assets/cee2954d-ddb3-49a3-908a-f12a57f89424)</b><br/>
+-<br/> <b> Domain Policy that applies to all 1000 users on the Domain!(https://github.com/user-attachments/assets/835678d5-e930-4998-8074-95300d3181a6)
+ </b><br/>
+- <br/><b>All 1000 users were added via adaptable powershell script, depending on organization needs (https://github.com/user-attachments/assets/d2dcabb6-5ac8-40d1-8bb4-1f1f48a9d078)
+</b><br/>
 - <b></b>
 
 <h2>Cybersecurity Case Study Analysis and Incident Response </h2>
