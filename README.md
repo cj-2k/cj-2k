@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charles!<br/><a href="[https://github.com/joshmadakor1](https://www.linkedin.com/in/charlesabrooksjr/)">Cybersecurity and Information Technology Specialist</a>, <a href="https://www.coh2.org/guides/categories">Technical Writer And Website Administrator</a>, <a href="https://liquipedia.net/rainbowsix/CookieZ">Esports Player and broadcast talent!</a></h1>
+<h1>Hi, I'm Charles!<br/><a href="[https://github.com/cj-2k](https://www.linkedin.com/in/charlesabrooksjr/)">Cybersecurity and Information Technology Specialist</a>, <a href="https://www.coh2.org/guides/categories">Technical Writer And Website Administrator.</a>
 
 <h2>Cybersecurity Case Study Analysis and Incident Response </h2>
 
