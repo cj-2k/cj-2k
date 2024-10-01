@@ -8,8 +8,8 @@
 - <br/><b>All 1000 users were added via adaptable powershell script, depending on organization needs (https://github.com/user-attachments/assets/d2dcabb6-5ac8-40d1-8bb4-1f1f48a9d078)
 </b><br/>
 - <b></b>
-<h2>SQL Database of every washington huskies game ever(yes i am big fan) </h2>
-- <b> Just ask to see it </b> <br/>
+<h2>Configured SQL Server, with an SQL Database </h2>
+
 <h2>Cybersecurity Case Study Analysis and Incident Response </h2>
 
 - <b>Network Vulnerability Assessments </b>
