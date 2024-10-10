@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charles!<br/><a href="[https://github.com/cj-2k](https://www.linkedin.com/in/charlesabrooksjr/)">Cybersecurity and Information Technology Specialist</a>, <a href="https://www.coh2.org/guides/categories">Technical Writer And Website Administrator.</a>
+<h1>Hi, I'm Charles!<br/><a href="[https://github.com/cj-2k](https://www.linkedin.com/in/charlesabrooksjr/)">Cybersecurity and Information Technology Specialist</a>
 
 <h2>Active Directory Domain Controller and Client PC's</h2>
 - <b> Group Policy Objects that include pre-configured applications to install!(https://github.com/user-attachments/assets/027c957c-8e81-4f6c-b147-c2b08d8fcf59)</b> <br/>
