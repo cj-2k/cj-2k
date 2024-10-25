@@ -1,7 +1,6 @@
 <h1>Hi, I'm Charles!<br/><a href="[https://github.com/cj-2k](https://www.linkedin.com/in/charlesabrooksjr/)">Cybersecurity and Information Technology Specialist</a>
 
 <h2>Active Directory Domain Controller and Client PC's</h2>
-- <b> Group Policy Objects that include pre-configured applications to install!(https://github.com/user-attachments/assets/027c957c-8e81-4f6c-b147-c2b08d8fcf59)</b> <br/>
 -<br/> <b>Example Domain policy settings that successfully apply to Client PC(https://github.com/user-attachments/assets/cee2954d-ddb3-49a3-908a-f12a57f89424)</b><br/>
 -<br/> <b> Domain Policy that applies to all 1000 users on the Domain!(https://github.com/user-attachments/assets/835678d5-e930-4998-8074-95300d3181a6)
  </b><br/>
@@ -9,6 +8,7 @@
 </b><br/>
 - <b></b>
 <h2>Configured SQL Server, with an SQL Database </h2>
+-<br/> <b>Hosted Via virtualization; with the server apart of Active Directory domain</b><br/>
 
 <h2>Cybersecurity Case Study Analysis and Incident Response </h2>
 
