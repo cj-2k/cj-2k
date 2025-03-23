@@ -2,7 +2,7 @@
 
 
 <h2>VIDEO PORTFOLIO</h2>
-https://youtu.be/2aXnIUzpJZo
+https://www.youtube.com/watch?v=bnJC9AZkYiA
 
 
 <h2>Active Directory Domain Controller and Client PC's</h2>
