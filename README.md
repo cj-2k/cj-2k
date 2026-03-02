@@ -1,6 +1,8 @@
-<h1>Hi, I'm Charles!<br/><a href="[https://github.com/cj-2k](https://www.linkedin.com/in/charlesabrooksjr/)">Cybersecurity and Information Technology Specialist</a>
+<h1>Hi, I'm Charles Brooks.<br/><a href="[https://github.com/cj-2k](https://www.linkedin.com/in/charlesabrooksjr/)">Cybersecurity and Information Technology Specialist</a>
 
 
+
+<h1>But you can call me cj
 <h2>VIDEO PORTFOLIO</h2>
 https://www.youtube.com/watch?v=bnJC9AZkYiA
 
@@ -27,7 +29,7 @@ https://www.youtube.com/watch?v=bnJC9AZkYiA
 
 
 
-<h2>📺 Technical Writing pieces </h2>
+<h2>📺Writing pieces! </h2>
 
 - [The Company of Heroes 2 Veterancy Guide(COH2.ORG)](https://www.coh2.org/guides/29892/the-company-of-heroes-2-veterancy-guide) Hand written, and demonstrates an ability to generate, and present extracted technical information to a casual audience (600,000 views)
 - [The Company of Heroes 2 Ability Guide ](https://www.coh2.org/guides/52852/the-coh2-ability-guide) Hand written article that translates technical information extracted from the game files to readable content for more casual audience. (100,000 views)
